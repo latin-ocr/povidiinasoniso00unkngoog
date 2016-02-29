@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso00unkngoog_0264.png"; bbox 0 0 1975 3700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 1117 848 1210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 1117 848 1210">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 1117 848 1210; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 190 1119 236 1207; x_wconf 87' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 268 1117 509 1210; x_wconf 88' lang='lat' dir='ltr'>OVIDII</span> <span class='ocrx_word' id='word_1_3' title='bbox 537 1117 848 1209; x_wconf 84' lang='lat' dir='ltr'>NASONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 88 1379 805 1530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 88 1379 805 1530">
+     <span class='ocr_line' id='line_1_2' title="bbox 88 1379 805 1530; baseline -0.001 -51"><span class='ocrx_word' id='word_1_4' title='bbox 88 1527 90 1530; x_wconf 9' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 237 1379 805 1481; x_wconf 82' lang='lat' dir='ltr'><strong>EPISTOLARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 168 1660 871 1803">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 168 1660 871 1803">
+     <span class='ocr_line' id='line_1_3' title="bbox 168 1660 871 1803; baseline 0.014 -12"><span class='ocrx_word' id='word_1_6' title='bbox 168 1660 871 1803; x_wconf 70' lang='lat' dir='ltr'>EXPONTO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 328 1971 716 2055">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 328 1971 716 2055">
+     <span class='ocr_line' id='line_1_4' title="bbox 328 1971 716 2055; baseline 0.023 -9"><span class='ocrx_word' id='word_1_7' title='bbox 328 1971 716 2055; x_wconf 69' lang='lat' dir='ltr'><strong>malm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 992 3700">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 992 3700">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 992 3700; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 992 3700; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
